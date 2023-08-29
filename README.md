@@ -90,6 +90,8 @@ richTextState.addLink(
 To get if the current selection is a link, use `RichTextState.isLink`:
 
 ```kotlin
+[![](https://jitpack.io/v/mohamedhamdy-Cis/Compose-Rich-Editor.svg)](https://jitpack.io/#mohamedhamdy-Cis/Compose-Rich-Editor)
+
 // Get if the current selection is a link.
 val isLink = richTextState.isLink
 ```
